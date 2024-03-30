@@ -1,0 +1,9 @@
+@media(max-width: 520px) {
+    .profile{
+        width: 90%;
+    }
+
+    .profile span{
+        font-size: 18px;
+    }
+}
